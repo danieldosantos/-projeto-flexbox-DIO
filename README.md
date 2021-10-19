@@ -6,5 +6,6 @@ projeto flexbox DIO pagina de turismo
 
 
 ![foto01](images/foto01.jpg)
-![Screenshot 2](imagensSite/tela_home.png)
+![foto02](images/foto02.jpg)
+![foto03](images/foto03.jpg)
 
